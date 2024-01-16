@@ -1,2 +1,3 @@
 # Ejercicios-git
-Hello world!
+
+Repositorio para los ejecicios de git.
